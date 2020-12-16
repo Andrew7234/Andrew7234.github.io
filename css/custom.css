@@ -1,0 +1,32 @@
+/* ----------------------------------------------------------------
+	Custom CSS
+
+	Add all your Custom Styled CSS here for New Styles or
+	Overwriting Default Theme Styles for Better Handling Updates
+-----------------------------------------------------------------*/
+
+#content {
+	position: relative;
+	background-color: black;
+}
+
+#bloody-title {
+	font-size: 4.25rem;
+	color: #ed1e22;
+}
+
+#bloody-subtitle {
+	font-size: 3.25rem;
+	color: #ed1e22;
+}
+
+#nutcrack-countdown {
+	color: #ed1e22;
+}
+
+.countdown-amount {
+	display: block;
+	font-size: 1.25rem;
+	color: #ed1e22;
+	margin-bottom: 5px;
+}
